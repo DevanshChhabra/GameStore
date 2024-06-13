@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\C#\\GameStoreNew\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameStoreNew.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GameStoreNew.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\C#\\GameStoreNew\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\C#\\GameStoreNew\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\C#\\GameStoreNew\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\C#\\GameStoreNew\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GameStoreNew.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GameStoreNew.props",
+      "PackagePath": "build\\GameStoreNew.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GameStoreNew.props",
+      "PackagePath": "buildMultiTargeting\\GameStoreNew.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GameStoreNew.props",
+      "PackagePath": "buildTransitive\\GameStoreNew.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
