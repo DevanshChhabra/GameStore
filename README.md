@@ -48,8 +48,6 @@ A comprehensive web application for managing a catalog of games, built with Blaz
    ```sh
    dotnet run
 
-
-
 ### Usage
 
 1. **Accessing the Application**:
