@@ -53,8 +53,7 @@ A comprehensive web application for managing a catalog of games, built with Blaz
 ### Usage
 
 1. **Accessing the Application**
-
-Open your web browser and navigate to http://localhost:5000.
+   Open your web browser and navigate to http://localhost:5000.
 
 2. **Features**
 
@@ -64,8 +63,7 @@ Open your web browser and navigate to http://localhost:5000.
 * **Delete Games**: Click the "Delete" button to remove a game, with a confirmation modal for safety.
 
 3. **Responsive Design**
-
-Enjoy a fully responsive interface built with Bootstrap, compatible with various devices.
+   Enjoy a fully responsive interface built with Bootstrap, compatible with various devices.
 
 ## Additional Information
 
