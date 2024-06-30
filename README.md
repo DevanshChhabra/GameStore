@@ -52,29 +52,32 @@ A comprehensive web application for managing a catalog of games, built with Blaz
 
 ### Usage
 
-#### Accessing the Application
+1. **Accessing the Application**
 
 Open your web browser and navigate to http://localhost:5000.
 
-#### Features
+2. **Features**
 
 * **View Games**: Browse through the list of games in your catalog.
 * **Add Games**: Click the "Add Game" button to open a form and enter details for a new game.
 * **Edit Games**: Select a game and click the "Edit" button to modify game details.
 * **Delete Games**: Click the "Delete" button to remove a game, with a confirmation modal for safety.
 
-#### Responsive Design
+3. **Responsive Design**
 
 Enjoy a fully responsive interface built with Bootstrap, compatible with various devices.
 
-#### Additional Information
+## Additional Information
 
-* **JavaScript Interop**: Some advanced features may require JavaScript interop. Ensure your browser supports JavaScript and Blazor WebAssembly.
-* **Troubleshooting**:
-	+ If you encounter issues connecting to MongoDB, verify your connection string and ensure MongoDB is running.
-	+ For .NET-related issues, ensure you have the correct SDK version installed.
+- **JavaScript Interop**: Some advanced features may require JavaScript interop. Ensure your browser supports JavaScript and Blazor WebAssembly.
 
+- **Troubleshooting**:
+  - If you encounter issues connecting to MongoDB, verify your connection string and ensure MongoDB is running.
+  - For .NET-related issues, ensure you have the correct SDK version installed.
 
-#### License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+## Acknowledgements
+
+- [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) for the amazing framework.
+- [MongoDB](https://www.mongodb.com/) for the robust NoSQL database solution.
+- [Bootstrap](https://getbootstrap.com/) for the responsive design framework.
 
