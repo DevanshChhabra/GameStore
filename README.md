@@ -30,5 +30,51 @@ A comprehensive web application for managing a catalog of games, built with Blaz
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/gamestore.git
+   git clone https://github.com/DevanshChhabra/gamestore.git
    cd gamestore
+2. **Set up MongoDB:**
+   Ensure MongoDB is installed and running on your local machine.
+   Create a database named `GameStore` with a collection named `Games`.
+3. **Configure the application:**
+   Open the `appsettings.json` file.
+   Update the MongoDB connection string and database name.
+4. **Install .NET dependencies:**
+   ```sh
+   dotnet restore
+5. **Build the application:**
+   ```sh
+   dotnet build
+6. **Run the application:**
+   ```sh
+   dotnet run
+
+
+
+### Usage
+
+#### Accessing the Application
+
+Open your web browser and navigate to http://localhost:5000.
+
+#### Features
+
+* **View Games**: Browse through the list of games in your catalog.
+* **Add Games**: Click the "Add Game" button to open a form and enter details for a new game.
+* **Edit Games**: Select a game and click the "Edit" button to modify game details.
+* **Delete Games**: Click the "Delete" button to remove a game, with a confirmation modal for safety.
+
+#### Responsive Design
+
+Enjoy a fully responsive interface built with Bootstrap, compatible with various devices.
+
+#### Additional Information
+
+* **JavaScript Interop**: Some advanced features may require JavaScript interop. Ensure your browser supports JavaScript and Blazor WebAssembly.
+* **Troubleshooting**:
+	+ If you encounter issues connecting to MongoDB, verify your connection string and ensure MongoDB is running.
+	+ For .NET-related issues, ensure you have the correct SDK version installed.
+
+
+#### License
+This project is licensed under the MIT License. See the LICENSE file for more information.
+
